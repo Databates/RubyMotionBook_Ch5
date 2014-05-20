@@ -1,0 +1,1 @@
+## This is the code example from Chapter 5 of [Clay Allsop's RubyMotion Book](http://www.amazon.com/RubyMotion-Pragmatic-Programmers-Clay-Allsopp/dp/1937785289)
